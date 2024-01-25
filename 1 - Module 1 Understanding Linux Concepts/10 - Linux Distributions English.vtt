@@ -1,0 +1,91 @@
+WEBVTT
+
+00:01.080 --> 00:09.150
+Linux distribution, I will cover here all the Linux operating system and its flavors that are out there,
+
+00:09.180 --> 00:15.090
+the main ones and the popular ones, there are many, many of them, but a few of them that I captured.
+
+00:15.090 --> 00:18.330
+Here are the first one is RedHat.
+
+00:18.630 --> 00:26.160
+You probably have heard of Red Hat from many different sources, RedHat, as an enterprise level operating
+
+00:26.160 --> 00:30.570
+system that are being used by big, major companies.
+
+00:31.020 --> 00:33.120
+They do charge for the support.
+
+00:33.210 --> 00:38.760
+They do provide their own customized, reconfigured build operating systems.
+
+00:38.760 --> 00:40.050
+You cannot change it.
+
+00:40.230 --> 00:41.700
+It's not open source.
+
+00:41.970 --> 00:44.640
+And anything goes wrong with the operating system.
+
+00:44.640 --> 00:47.100
+RedHat can provide the support to fix it.
+
+00:48.240 --> 00:52.650
+Then the next one we have is sent operating system, which is sent OS.
+
+00:52.650 --> 00:57.540
+This is the operating system actually we will be working with in my course.
+
+00:58.080 --> 01:05.970
+And the good thing about learning centers is if you are planning to apply for a job on Linux after the
+
+01:05.970 --> 01:12.060
+course or once you gain some experience or whenever you are ready, you could easily find many jobs
+
+01:12.060 --> 01:16.200
+in rehab centers is exactly the same as RedHat.
+
+01:16.290 --> 01:18.510
+It is also managed by RedHat.
+
+01:18.510 --> 01:21.900
+They don't provide support on S.O.S and it's completely free.
+
+01:23.220 --> 01:24.540
+Then we have Fedora.
+
+01:24.540 --> 01:30.990
+This is also one of the popular operating system that is used by many companies.
+
+01:31.630 --> 01:33.240
+Again, this one is free.
+
+01:33.780 --> 01:35.250
+Then we have Susi.
+
+01:35.400 --> 01:41.130
+Sussie is very popular operating system in terms of customization.
+
+01:41.430 --> 01:50.190
+Many people uses this operating system and they change the code to give their proprietary appliances
+
+01:50.190 --> 01:52.200
+and their proprietary programs.
+
+01:53.370 --> 01:58.650
+A lot of companies like VMware also run Saussy appliances in their environment.
+
+02:00.150 --> 02:07.770
+Then we have Davian Tabin is very popular at the PC level and the last one is a Bunta.
+
+02:08.100 --> 02:17.070
+So all of these are major Linux distributions, a Linux operating systems that wanted to highlight.
+
+02:17.700 --> 02:21.420
+You will be hearing many of these names down the road.
+
+02:21.960 --> 02:28.320
+And our focus in this course is sent operating system, which is S.O.S.

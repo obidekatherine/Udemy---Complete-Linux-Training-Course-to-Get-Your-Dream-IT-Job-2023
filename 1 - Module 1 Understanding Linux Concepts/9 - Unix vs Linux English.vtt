@@ -1,0 +1,100 @@
+WEBVTT
+
+00:01.860 --> 00:06.510
+Let's look at Gen-X versus Linux and see what are the differences.
+
+00:06.720 --> 00:11.550
+But before we get into finding the differences, we'll find out what Unix is.
+
+00:12.000 --> 00:21.740
+Unix was first developed for multiuser and multitask purposes in mid 1970s in Bell Labs by AT&amp;T, G.E.
+
+00:21.780 --> 00:24.100
+and Massachusetts Institute of Technology.
+
+00:24.480 --> 00:31.230
+There was an operating system, but it was not allowing for multi users or multitasking.
+
+00:31.420 --> 00:33.840
+So that was one of the purposes for creating that.
+
+00:34.590 --> 00:44.460
+Then born Linux in 1991 by a student named Linux towards Linux is mostly free.
+
+00:45.960 --> 00:54.240
+And Linux is open source, so what Linux free means is you could install the Linux operating system
+
+00:54.240 --> 00:56.820
+in any of your computer hardware.
+
+00:57.150 --> 01:02.280
+There are a few Linux distributions that are not free, like RedHat, where you would have to pay for
+
+01:02.280 --> 01:03.540
+support, a subscription.
+
+01:04.290 --> 01:12.510
+And the open source means that Linux code that was derived from Unix is actually open to the public,
+
+01:12.510 --> 01:13.320
+to the community.
+
+01:13.500 --> 01:20.070
+So they could go in and make changes to their code and make the operating system the way they want it
+
+01:20.070 --> 01:21.690
+to work in their own way.
+
+01:22.860 --> 01:28.860
+Unix is mostly used by Sun and the operating system is called Solaris.
+
+01:29.220 --> 01:37.410
+By the way, Sun is now bought out by Oracle and also other operating systems that are Unix is used
+
+01:37.410 --> 01:42.690
+as HP works by HP, IEX and some other distributions of Unix.
+
+01:43.620 --> 01:53.130
+Linux is used mostly by developer communities or companies like RedHat S.O.S, Debian, Fedora, Soucy,
+
+01:53.640 --> 01:56.220
+Bunta, and there are so many of them.
+
+01:56.220 --> 02:01.410
+Even if you go out and search for Linux distributions, you will find so many of them.
+
+02:02.670 --> 02:07.130
+Unix is comparatively support, very few filesystem.
+
+02:07.290 --> 02:08.700
+Now what is a filesystem?
+
+02:08.850 --> 02:14.880
+That is something that we will cover later, but there are fewer filesystem that supported by Unix operating
+
+02:14.880 --> 02:20.820
+system and a lot more vast systems that are supported in Linux.
+
+02:20.820 --> 02:28.410
+Flavour's Linux can be installed on a variety of computer hardware ranging from mobile phones, tablet
+
+02:28.590 --> 02:36.570
+video games consoles to mainframe and supercomputers is just like you cannot install Mac operating system
+
+02:36.750 --> 02:37.950
+on a Dell machine.
+
+02:38.160 --> 02:43.380
+You have to install Mac operating system on a Mac hardware just like that.
+
+02:43.380 --> 02:50.940
+Unix is only installed on certain hardware, whereas Linux you could install pretty much on every hardware
+
+02:51.120 --> 02:54.590
+that is out there running amd your Intel processor.
+
+02:55.590 --> 03:02.070
+So these are the few basics about Unix and and Linux and I hope you will find more information if you're
+
+03:02.070 --> 03:03.410
+curious about it online.

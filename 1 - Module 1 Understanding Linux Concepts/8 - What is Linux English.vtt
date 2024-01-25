@@ -1,0 +1,127 @@
+WEBVTT
+
+00:01.970 --> 00:02.900
+What is Linux?
+
+00:03.260 --> 00:11.030
+So of course, we are going to learn Linux, but we do want to know what exactly is Linux is an operating
+
+00:11.030 --> 00:11.600
+system.
+
+00:11.630 --> 00:13.670
+It's just like any other operating system.
+
+00:13.700 --> 00:16.040
+For example, Microsoft has Windows.
+
+00:16.790 --> 00:21.530
+Apple has Mac Sun, which is now owned by Oracle.
+
+00:21.530 --> 00:24.880
+They have Solaris running on Sparke Hardware.
+
+00:25.520 --> 00:33.170
+So Linux is an operating system which sits in the middle of your hardware and the users and the users
+
+00:33.170 --> 00:36.670
+are the one who run the applications.
+
+00:36.980 --> 00:44.750
+So it's like a middleman or a bridge that takes the commands from users and translate them to hardware.
+
+00:45.290 --> 00:46.280
+So look at this picture.
+
+00:46.280 --> 00:48.050
+So you see a computer, right?
+
+00:48.290 --> 00:54.010
+So without an operating system, this computer is considered like a dumb terminal.
+
+00:54.020 --> 00:55.280
+It doesn't do anything.
+
+00:55.490 --> 00:56.560
+So how does it work?
+
+00:56.570 --> 01:01.690
+So we have this terminal, which is, of course, a piece of brick.
+
+01:02.090 --> 01:11.540
+You open the tray of that computer, you insert your CD or DVD in that CD or DVD has the operating system
+
+01:11.540 --> 01:18.170
+image sitting on it, whether it's a Windows or whether it's Linux or whichever upbring system that
+
+01:18.170 --> 01:18.990
+you are installing.
+
+01:19.430 --> 01:23.540
+So you bought your computer from that operating system.
+
+01:23.810 --> 01:27.920
+So once you booting it up, it goes through the installation process.
+
+01:28.310 --> 01:33.110
+That installation process is going to ask you a bunch of questions like how do you want the operating
+
+01:33.110 --> 01:34.460
+system to be configured?
+
+01:34.790 --> 01:36.920
+How do you want your dissertation?
+
+01:37.160 --> 01:41.610
+How do you want how many users you want to have installed and so on.
+
+01:41.930 --> 01:49.460
+So once the installation is done, then at the end of the installation, it's going to ask you to reboot.
+
+01:49.460 --> 01:55.490
+You reboot the computer and it comes up to the Volcom screen and say welcome to Linux or welcome to
+
+01:55.490 --> 01:58.690
+Windows or whatever the operating system that you're installing.
+
+01:59.300 --> 02:02.870
+So then you could attach external devices to it.
+
+02:02.870 --> 02:07.310
+For example, you could attach keyboard to it, you could attach a mouse to it.
+
+02:07.580 --> 02:17.870
+So you use these mouse and keyboards, you type a certain command, certain, you use applications and
+
+02:17.870 --> 02:21.050
+type them, and then you send it to your operating system.
+
+02:21.740 --> 02:28.670
+Then your operating system takes those commands and forwarded to other hardware or other system peripherals.
+
+02:28.670 --> 02:31.120
+So some of them are, for example, the printer.
+
+02:31.400 --> 02:37.100
+So you if you are running an application, for example, you running Microsoft, would you type it in
+
+02:37.100 --> 02:40.610
+with your keyboard and then you want to print that document?
+
+02:40.620 --> 02:40.960
+Right.
+
+02:41.180 --> 02:46.850
+So the operating system will take that document and send it to your printer and your printer will spit
+
+02:46.850 --> 02:52.330
+out the document that you want to print or if you are running other programs, for example, you are
+
+02:52.340 --> 02:59.510
+online, you're checking your email or you are running some online program or even games.
+
+02:59.720 --> 03:08.090
+So you are using your keyboard or your mouse, you communicating with your operating system in the operating
+
+03:08.090 --> 03:13.970
+system, communicates with your hardware, and that's how it communicates to other devices on the network.
