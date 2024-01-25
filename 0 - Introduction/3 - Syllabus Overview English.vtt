@@ -1,0 +1,253 @@
+WEBVTT
+
+00:00.920 --> 00:07.520
+Hello, everyone, I really request you to please give me five minutes to go over the syllabus together,
+
+00:07.850 --> 00:12.920
+because once you're going to go over this entire syllabus with me, you're going to know that this is
+
+00:12.920 --> 00:15.890
+the perfect and best course out there.
+
+00:16.940 --> 00:17.360
+All right.
+
+00:17.390 --> 00:22.160
+I have actually broken down my entire course in NetNet different modules.
+
+00:22.550 --> 00:25.950
+First module is about understanding Lennix concept.
+
+00:25.970 --> 00:28.940
+It will cover about Linux, Unix for Linux.
+
+00:29.150 --> 00:31.070
+And notice one thing.
+
+00:31.070 --> 00:40.610
+Every module I have, I have included quizzes for you to do, homework to do after each module and handouts
+
+00:40.820 --> 00:41.510
+to read.
+
+00:41.510 --> 00:46.490
+You don't really have to read each hand out, but it's good to have those resources in your hand.
+
+00:47.060 --> 00:52.750
+Moving on to module two where we'll cover, download, install and configure actual Linux machines.
+
+00:52.780 --> 00:55.910
+We'll talk about virtual machine downloading that virtual machine.
+
+00:56.210 --> 01:02.030
+We'll talk about what are the different ways to install a Linux machine that will cover the actual CentOS
+
+01:02.030 --> 01:02.670
+installation.
+
+01:02.690 --> 01:09.290
+I have also included the optional Red Hat Linux installation lecture as well, then some somewhat on
+
+01:09.290 --> 01:15.830
+Linux, desktop management on VM and then again ending with quizzes, homework and hand outs, moving
+
+01:15.830 --> 01:21.320
+on to module three, which is about system access and file system, and that is about Camonte problems
+
+01:21.320 --> 01:23.870
+accessing Linux system downloading install PUDI.
+
+01:24.110 --> 01:26.140
+You need to know some important things about Linux.
+
+01:26.150 --> 01:28.880
+I have covered that introduction to file system.
+
+01:28.890 --> 01:30.920
+What are the different file systems that are available then?
+
+01:30.920 --> 01:39.020
+The Basic Command CDPR and that's where we're going to start our Linux Canalis moving on to a file system,
+
+01:39.260 --> 01:44.900
+as you're going to see, I'm going to skip them of a very fast use review and go over it directly.
+
+01:44.900 --> 01:50.660
+Listing touch copy commands, binding files and directory wildcard softly Carelink quizzes, homework
+
+01:50.660 --> 01:51.200
+and handouts.
+
+01:51.200 --> 01:57.470
+Then Module four is about Linux fundamentals, commands and decks change what this is all about.
+
+01:57.470 --> 01:58.880
+Permission to file permission.
+
+01:58.880 --> 02:06.080
+Also, ACBL can access control, which is a detailed getting into the weeds, getting help tab completion.
+
+02:06.080 --> 02:12.650
+Adding text to the file pipe's file management commands display command filters command compare files.
+
+02:12.650 --> 02:19.220
+So many commands begin to learn in module four that is about Linux fundamental and combining splitting
+
+02:19.220 --> 02:24.590
+FAS, Linux vs. Windows and of course quizzes, homework and hand out module five system administration
+
+02:24.590 --> 02:28.160
+getting bit more into the actual administration part.
+
+02:28.370 --> 02:34.160
+We will talk about how we could v.i. a file difference between VM when said, which is substitution
+
+02:34.160 --> 02:34.550
+command.
+
+02:34.850 --> 02:37.460
+We'll talk about his account management Suda account.
+
+02:37.970 --> 02:44.870
+How are you managing Linux users through Active Directory or to the other third party authentication?
+
+02:45.050 --> 02:50.090
+We'll also talk about difference between helda LDAP idea went by an open eldership.
+
+02:50.390 --> 02:52.820
+Then we'll talk about system utility commands.
+
+02:53.060 --> 02:59.630
+Always maintenace command changing system hostname finding system information recoverable password S.O.S
+
+02:59.630 --> 03:01.970
+reporter environment variable a lot more.
+
+03:01.970 --> 03:04.490
+I'm already getting out of breath and we still on module five.
+
+03:04.490 --> 03:05.660
+Moving on to module six.
+
+03:05.810 --> 03:07.640
+We'll talk about all about shell scripting.
+
+03:07.640 --> 03:12.590
+I'll show you if then script follow script, do the scripts and many scripts.
+
+03:12.830 --> 03:16.130
+Module seven now working servers and the system updates.
+
+03:16.310 --> 03:22.730
+We'll talk about networking components, bonding network ports, downloading files from the Internet.
+
+03:22.940 --> 03:31.250
+MSH sources tell that we'll talk about DNS hostname and IP lookup, A.P. Cronie dissent, mail and all
+
+03:31.250 --> 03:32.420
+these services that you see.
+
+03:32.570 --> 03:34.730
+I'm not just going to go away real quickly.
+
+03:34.730 --> 03:39.470
+I'm actually going to work with you to go ahead to download silent configure each of these servers.
+
+03:40.310 --> 03:43.370
+Then Modulate is all about disk management all together run levels.
+
+03:43.370 --> 03:44.690
+We'll talk about disputations.
+
+03:44.930 --> 03:50.330
+LVM is the biggest part of this where we're going to cover everything about LVM adding disk, removing
+
+03:50.330 --> 03:50.630
+disk.
+
+03:50.810 --> 03:56.330
+We're going to talk about extending the existing partition suau space Ra'ed file system.
+
+03:56.330 --> 04:00.350
+Check Neff's complete big topic of NFZ compared.
+
+04:00.530 --> 04:02.300
+I covered everything from scratch.
+
+04:02.540 --> 04:06.740
+Also covered the difference between already had flavour's module line.
+
+04:06.800 --> 04:10.340
+OK, now up until module eight, everything is covered on the technical side.
+
+04:10.520 --> 04:11.810
+I'm not leaving you right here.
+
+04:11.810 --> 04:16.840
+I'm actually holding your hand and taking two module line about how you should have your resume.
+
+04:16.870 --> 04:22.250
+We'll have a resume workshop, cover letter, exposure to other technologies, homework handouts.
+
+04:22.400 --> 04:24.200
+Then Module ten just like resume.
+
+04:24.200 --> 04:29.170
+I am taking you to the next level where I'm going to tell you how you should be prepared for your Linux
+
+04:29.210 --> 04:29.810
+interviews.
+
+04:30.050 --> 04:32.450
+And that is something about Linux.
+
+04:32.720 --> 04:33.710
+What is it?
+
+04:33.710 --> 04:37.040
+Jobs that we have I.T. management and you apply for Linux job.
+
+04:37.040 --> 04:41.660
+What do you need to expect then into the workshop, actual workshop, then certification?
+
+04:41.660 --> 04:47.540
+If you want to get into certification, you want to get a certification and Linux, then we have 200
+
+04:47.540 --> 04:51.200
+plus interview questions that I'm going to give it to you and of course, hand working hand outs.
+
+04:51.560 --> 04:53.420
+And then, of course, recap.
+
+04:53.420 --> 04:55.520
+This is not part of the module is just a recap.
+
+04:55.520 --> 05:00.290
+What we have learned from this course and the final exam is about.
+
+05:00.670 --> 05:06.730
+Question, I really urge you to take that so you could you could, you know, that you where you stand
+
+05:06.740 --> 05:08.980
+of a discourse, then additional resources.
+
+05:08.990 --> 05:13.700
+I have two 20 plus additional videos and a lecture that you could take if you want to.
+
+05:13.930 --> 05:16.200
+Now you decide, now you be the judge.
+
+05:16.420 --> 05:19.060
+Is this course are really going to make a difference in your life?
+
+05:19.300 --> 05:20.080
+Well, I'll tell you.
+
+05:20.080 --> 05:20.830
+Yes, it will.
+
+05:20.860 --> 05:26.390
+So please go ahead and click on Unroll and you're going to find tons of resources in this case.
+
+05:26.410 --> 05:26.980
+Good luck.

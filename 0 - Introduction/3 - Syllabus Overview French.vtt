@@ -1,0 +1,232 @@
+WEBVTT
+
+00:00.950 --> 00:02.140
+Bonjour à tous.
+
+00:02.240 --> 00:08.660
+Je vous demande vraiment de me donner cinq minutes pour parcourir le programme ensemble, car une fois
+
+00:08.660 --> 00:14.390
+que vous irez là où tout ce programme avec moi, vous saurez que c'est
+
+00:14.390 --> 00:16.910
+le cours parfait et le meilleur.
+
+00:17.030 --> 00:17.450
+D'accord.
+
+00:17.450 --> 00:22.550
+J'ai en fait décomposé l'ensemble de mon cours en 10 modules différents.
+
+00:22.550 --> 00:25.990
+Le premier module concerne la compréhension du concept Linux.
+
+00:25.990 --> 00:29.080
+Il couvrira Linux comme les guerres Unix Linux.
+
+00:29.270 --> 00:38.360
+Et remarquez une chose pour chaque module que j'ai. J'ai inclus des questionnaires à faire après chaque module
+
+00:38.360 --> 00:41.520
+et des documents à lire.
+
+00:41.540 --> 00:46.860
+Vous n'avez pas vraiment besoin de lire chaque document mais c'est bien d'avoir ces ressources en main.
+
+00:47.090 --> 00:53.300
+Passons au module deux où nous couvrirons l'installation du téléchargement et configurerons les machines Linux réelles ou parlerons du téléchargement
+
+00:53.300 --> 00:56.230
+par la machine virtuelle de cette machine de mouvement.
+
+00:56.240 --> 01:00.340
+Nous parlerons des différentes façons d'installer la machine Linux.
+
+01:00.410 --> 01:02.750
+Ensuite, nous couvrirons l'installation réelle envoyée aux États-Unis.
+
+01:02.750 --> 01:07.940
+J'ai également inclus la conférence d'installation facultative de Red Hat Linux.
+
+01:07.940 --> 01:15.050
+Ensuite, un peu sur la gestion de bureau Linux sur VM, puis se terminant à nouveau avec des devoirs de quiz et des
+
+01:15.050 --> 01:15.500
+documents.
+
+01:15.500 --> 01:21.290
+Passant au module trois qui concerne l'accès au système et le système de fichiers et qui concerne les invites de commande
+
+01:21.320 --> 01:26.170
+accédant au système Linux en téléchargeant du mastic installé, vous devez savoir certaines choses importantes sur Linux.
+
+01:26.210 --> 01:28.900
+J'ai couvert cette introduction au système de fichiers.
+
+01:28.910 --> 01:33.530
+Quels sont les différents systèmes de fichiers disponibles alors la commande de base GDP WD et Alice.
+
+01:33.530 --> 01:34.850
+C'est là que nous allons commencer.
+
+01:34.850 --> 01:40.340
+Les commandes Linux se déplacent-elles sur un système de fichiers comme vous allez le voir.
+
+01:40.340 --> 01:47.000
+Je vais leur sauter une revue d'utilisation très rapide et passer en revue directement la liste des commandes de copie tactile en trouvant des
+
+01:47.000 --> 01:51.200
+fichiers et en vous écrivant des jokers hors ligne Hertling quizz devoirs et documents.
+
+01:51.200 --> 01:56.780
+Ensuite, le module 4 traite de la syntaxe des commandes des principes fondamentaux de Linux.
+
+01:56.780 --> 01:58.870
+Il s'agit de l'autorisation de déposer une autorisation.
+
+01:58.880 --> 02:04.990
+ACL peut également accéder au contrôle, ce qui est un détail qui permet aux mauvaises herbes d'obtenir de l'aide.
+
+02:05.090 --> 02:09.540
+Compléter la tabulation en ajoutant du texte à la commande de gestion de fichiers des canaux de fichiers.
+
+02:09.560 --> 02:16.670
+La commande Afficher les filtres commande la comparaison des fichiers, de sorte que de nombreuses commandes commencent à apprendre dans le module 4
+
+02:16.670 --> 02:19.600
+sur Linux fondamental et la combinaison de fichiers fractionnés.
+
+02:19.610 --> 02:25.190
+Linux contre Windows et bien sûr quizz devoirs et polycopiés module
+
+02:25.190 --> 02:28.290
+5 administration sys de plus en plus dans la partie administration réelle.
+
+02:28.430 --> 02:34.130
+Nous parlerons de la façon dont nous pourrions VII A FILE différence entre VM quand il l'a dit qui est la commande de
+
+02:34.130 --> 02:34.640
+substitution.
+
+02:34.880 --> 02:37.980
+Nous parlerons de l'utilisation du pseudo compte de gestion de compte.
+
+02:38.030 --> 02:45.110
+Comment pouvez-vous gérer vos utilisateurs Linux via Active Directory ou à d'autres lors de l'authentification tierce.
+
+02:45.110 --> 02:51.290
+Nous parlerons également de la différence entre le LDN et cette idée est passée par une application alternative ouverte, puis il
+
+02:51.290 --> 02:57.830
+parlera des commandes de l'utilitaire système, toujours la commande de maintenance changeant le nom d'hôte du système, trouvant le mot de passe de
+
+02:57.830 --> 03:03.320
+récupération des informations système S. O. L'environnement du journaliste S varie mais beaucoup plus
+
+03:03.320 --> 03:08.630
+je suis déjà à bout de souffle et nous continuons sur le module 5 pour passer au module 6, nous parlerons de tout sur les
+
+03:08.630 --> 03:12.810
+scripts shell, je vais vous montrer si c'est bon pour les prises lâches, c'était les scripts et de nombreux scripts.
+
+03:12.860 --> 03:16.400
+Les serveurs de mise en réseau du module 7 et les mises à jour du système.
+
+03:16.400 --> 03:22.700
+Nous parlerons des sociétés de mise en réseau qui viennent relier les ports réseau en téléchargeant des fichiers depuis Internet, car SSA Sage fonctionne comme un tell que nous
+
+03:22.870 --> 03:30.800
+parlerons du nom d'hôte DNS et de la recherche IP A. P. copain d envoyer du courrier et tous ces
+
+03:30.800 --> 03:32.550
+services que vous voyez.
+
+03:32.660 --> 03:37.350
+Je ne vais pas simplement aller où très vite, je vais réellement travailler avec vous pour
+
+03:37.350 --> 03:42.770
+aller de l'avant et télécharger l'installation configurer chacun de ces serveurs, puis moduler est une question de gestion de disque,
+
+03:42.770 --> 03:47.930
+tous touchés par les niveaux de Ron, nous parlerons des partitions de disque l VM est une plus
+
+03:48.020 --> 03:53.780
+grande partie de cela où nous allons couvrir tout ce qui concerne LV J'ajoute un disque en supprimant le disque nous
+
+03:54.460 --> 04:01.640
+allons parler de l'extension du système de fichiers de raid d'espace d'échange de partition existant vérifier NF d'abord le grand sujet complet d'un NFC compact, j'ai tout
+
+04:01.640 --> 04:07.110
+couvert à partir de zéro a également couvert la différence entre toutes les lignes de module de saveurs rousses OK.
+
+04:07.130 --> 04:10.610
+Maintenant, jusqu'à moduler, tout est couvert sur le plan technique.
+
+04:10.610 --> 04:11.800
+Je ne te laisse pas ici.
+
+04:11.810 --> 04:16.860
+Je tiens votre main et je prends la ligne du module sur la façon dont vous devriez avoir votre CV.
+
+04:16.870 --> 04:18.910
+Nous aurons un CV ou une lettre de motivation pour l'atelier.
+
+04:19.050 --> 04:21.070
+Exposition à d'autres technologies.
+
+04:21.230 --> 04:23.270
+Documents de devoirs puis module 10.
+
+04:23.270 --> 04:28.520
+Tout comme le curriculum vitae, je vous amène au niveau suivant où je vais vous dire comment vous devriez
+
+04:28.520 --> 04:32.720
+être préparé pour vos entretiens Linux et c'est quelque chose à propos de Linux.
+
+04:32.750 --> 04:37.010
+Qu'est-ce que je T. emplois que vous avez I. T. gestion lorsque vous postulez pour un travail Linux.
+
+04:37.010 --> 04:38.470
+À quoi devez-vous vous attendre.
+
+04:38.600 --> 04:43.640
+Ensuite, interviewez le vocabulaire de l'atelier puis la certification si vous voulez entrer dans la certification,
+
+04:43.640 --> 04:49.250
+vous voulez obtenir une certification sous Linux, nous avons plus de 200 questions d'entrevue que je vais vous
+
+04:49.250 --> 04:49.720
+donner.
+
+04:49.790 --> 04:53.390
+Et bien sûr, devoirs et documents à distribuer, puis, bien sûr, récapitulons.
+
+04:53.390 --> 04:59.720
+Cela ne fait pas partie du module, c'est juste un récapitulatif de ce que nous avons appris de ce cours et l'examen
+
+04:59.780 --> 05:01.110
+final est une question.
+
+05:01.130 --> 05:02.990
+Je vous exhorte vraiment à prendre cela.
+
+05:03.090 --> 05:09.000
+Donc, vous pourriez vous ne pourriez-vous pas savoir que vous en êtes dans ce discours, alors des ressources supplémentaires, je dois
+
+05:09.000 --> 05:13.860
+chasser plus de 20 vidéos et conférences supplémentaires que vous pourriez prendre si vous le souhaitez.
+
+05:13.980 --> 05:16.450
+Maintenant, vous décidez maintenant que vous êtes le juge.
+
+05:16.500 --> 05:19.320
+Est-ce que ce cours va vraiment faire une différence dans votre vie?
+
+05:19.320 --> 05:20.850
+Eh bien, je vais vous dire que oui.
+
+05:20.850 --> 05:26.400
+Alors s'il vous plaît allez-y et cliquez sur dérouler et vous allez trouver des tonnes de ressources dans ce cours.
+
+05:26.400 --> 05:26.970
+Bonne chance.

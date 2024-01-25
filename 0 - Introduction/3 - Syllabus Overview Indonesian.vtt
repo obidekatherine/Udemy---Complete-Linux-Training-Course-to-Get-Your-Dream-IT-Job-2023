@@ -1,0 +1,232 @@
+WEBVTT
+
+00:00.950 --> 00:02.140
+Halo semuanya.
+
+00:02.240 --> 00:08.660
+Saya benar-benar meminta Anda untuk memberi saya waktu lima menit untuk membahas silabus bersama karena sekali Anda akan
+
+00:08.660 --> 00:14.390
+pergi ke mana seluruh silabus ini bersama saya, Anda akan tahu bahwa ini adalah kursus yang
+
+00:14.390 --> 00:16.910
+sempurna dan terbaik di luar sana.
+
+00:17.030 --> 00:17.450
+Baiklah.
+
+00:17.450 --> 00:22.550
+Saya sebenarnya telah memecah seluruh kursus saya dalam 10 modul yang berbeda.
+
+00:22.550 --> 00:25.990
+Modul pertama adalah tentang memahami konsep Linux.
+
+00:25.990 --> 00:29.080
+Ini akan membahas tentang Linux ketika Unix berperang dengan Linux.
+
+00:29.270 --> 00:38.360
+Dan perhatikan satu hal setiap modul yang saya miliki Saya telah menyertakan kuis bagi Anda untuk mengerjakan pekerjaan rumah setelah
+
+00:38.360 --> 00:41.520
+setiap modul dan selebaran untuk dibaca.
+
+00:41.540 --> 00:46.860
+Anda tidak benar-benar harus membaca setiap selebaran tetapi ada baiknya memiliki sumber daya itu di tangan Anda.
+
+00:47.090 --> 00:53.300
+Pindah ke Modul Dua di mana kita akan membahas pengunduhan unduhan dan konfigurasi mesin linux yang sebenarnya atau berbicara
+
+00:53.300 --> 00:56.230
+tentang mesin virtual yang mengunduh mesin gerak itu.
+
+00:56.240 --> 01:00.340
+Kami akan berbicara tentang apa saja cara berbeda untuk menginstal mesin Linux.
+
+01:00.410 --> 01:02.750
+Kemudian kami akan membahas pengiriman aktual yang dikirim ke instalasi AS.
+
+01:02.750 --> 01:07.940
+Saya juga menyertakan kuliah instalasi Red Hat Linux opsional juga.
+
+01:07.940 --> 01:15.050
+Kemudian beberapa agak pada manajemen desktop Linux pada VM dan sekali lagi diakhiri dengan kuis pekerjaan rumah dan
+
+01:15.050 --> 01:15.500
+selebaran.
+
+01:15.500 --> 01:21.290
+Pindah ke Modul tiga yaitu tentang akses sistem dan sistem file dan itu adalah tentang perintah meminta mengakses
+
+01:21.320 --> 01:26.170
+sistem Linux mengunduh dempul yang diinstal Anda perlu tahu beberapa hal penting tentang Linux.
+
+01:26.210 --> 01:28.900
+Saya telah membahas pengantar sistem file.
+
+01:28.910 --> 01:33.530
+Apa perbedaan sistem file yang tersedia kemudian perintah dasar GDP WD dan Alice.
+
+01:33.530 --> 01:34.850
+Di situlah kita akan mulai.
+
+01:34.850 --> 01:40.340
+Apakah perintah Linux terletak pada sistem file seperti yang akan Anda lihat.
+
+01:40.340 --> 01:47.000
+Saya akan melewati mereka ulasan penggunaan yang sangat cepat dan langsung membahas daftar perintah salin sentuh menemukan file
+
+01:47.000 --> 01:51.200
+dan menulis Anda wildcard offline Hertling kuis pekerjaan rumah dan handout.
+
+01:51.200 --> 01:56.780
+Kemudian modul 4 adalah tentang dasar-dasar Linux perintah sintaks mengubah pikiran.
+
+01:56.780 --> 01:58.870
+Ini semua tentang izin untuk mengajukan izin.
+
+01:58.880 --> 02:04.990
+ACL juga dapat mengakses kontrol yang merupakan detail masuk ke gulma mendapatkan bantuan.
+
+02:05.090 --> 02:09.540
+Tab selesai menambahkan teks ke perintah manajemen file pipa file.
+
+02:09.560 --> 02:16.670
+Perintah tampilan filter perintah membandingkan file sehingga banyak perintah mulai belajar di modul 4 yaitu tentang
+
+02:16.670 --> 02:19.600
+Linux fundamental dan menggabungkan file pemisahan.
+
+02:19.610 --> 02:25.190
+Linux vs. jendela dan tentu saja menanyai pekerjaan rumah dan modul
+
+02:25.190 --> 02:28.290
+handout 5 sys administrasi semakin menjadi bagian administrasi yang sebenarnya.
+
+02:28.430 --> 02:34.130
+Kita akan berbicara tentang bagaimana kita bisa membedakan perbedaan antara VM ketika dikatakan itu yang merupakan perintah
+
+02:34.130 --> 02:34.640
+substitusi.
+
+02:34.880 --> 02:37.980
+Kami akan berbicara tentang penggunaan akun pseudo manajemen akun.
+
+02:38.030 --> 02:45.110
+Bagaimana Anda dapat mengelola pengguna Linux Anda melalui direktori aktif atau ke yang lain di otentikasi pihak ketiga.
+
+02:45.110 --> 02:51.290
+Kami juga akan berbicara tentang perbedaan antara LDN dan ide yang pergi oleh aplikasi alt terbuka
+
+02:51.290 --> 02:57.830
+maka itu akan berbicara tentang perintah utilitas sistem selalu perintah pemeliharaan mengubah sistem hostname menemukan kata sandi
+
+02:57.830 --> 03:03.320
+pemulihan informasi sistem S. HAI. Lingkungan reporter bervariasi tetapi lebih banyak lagi
+
+03:03.320 --> 03:08.630
+saya sudah kehabisan nafas dan kita masih pada modul 5 pindah ke modul 6 kita akan berbicara tentang semua skrip shell Saya
+
+03:08.630 --> 03:12.810
+akan menunjukkan kepada Anda jika itu baik untuk pegangan longgar lakukan adalah skrip dan banyak skrip.
+
+03:12.860 --> 03:16.400
+Server jaringan modul 7 dan pembaruan sistem.
+
+03:16.400 --> 03:22.700
+Kita akan berbicara tentang perusahaan-perusahaan jaringan yang datang mengikat port jaringan yang mengunduh file-file dari Internet karena SSA sage berfungsi sebagai informasi bahwa kita
+
+03:22.870 --> 03:30.800
+akan berbicara tentang DNS hostname dan pencarian IP A. P. kroni d mengirim surat dan semua layanan
+
+03:30.800 --> 03:32.550
+ini yang Anda lihat.
+
+03:32.660 --> 03:37.350
+Saya tidak hanya akan pergi ke tempat yang sangat cepat Saya sebenarnya akan
+
+03:37.350 --> 03:42.770
+bekerja dengan Anda untuk terus maju dan mengunduh menginstal mengkonfigurasi masing-masing server ini kemudian memodulasi adalah
+
+03:42.770 --> 03:47.930
+semua tentang manajemen disk semua tersentuh oleh tingkat Ron kita akan berbicara tentang partisi disk l
+
+03:48.020 --> 03:53.780
+VM adalah bagian terbesar dari ini di mana kita akan membahas segala sesuatu tentang LV Saya menambahkan disk
+
+03:54.460 --> 04:01.640
+menghapus disk kita akan berbicara tentang memperpanjang partisi ruang swap file sistem serangan NF memeriksa NF pertama menyelesaikan topik besar lengkap dari
+
+04:01.640 --> 04:07.110
+NFC kompak saya menutupi semuanya dari awal juga membahas perbedaan antara semua modul rambut merah rasa OK.
+
+04:07.130 --> 04:10.610
+Sekarang sampai memodulasi semuanya tercakup pada sisi teknis.
+
+04:10.610 --> 04:11.800
+Aku tidak akan meninggalkanmu di sini.
+
+04:11.810 --> 04:16.860
+Saya benar-benar memegang tangan Anda dan mengambil garis modul tentang bagaimana Anda harus memiliki resume Anda.
+
+04:16.870 --> 04:18.910
+Kami akan memiliki surat lamaran resume atau lokakarya.
+
+04:19.050 --> 04:21.070
+Paparan teknologi lainnya.
+
+04:21.230 --> 04:23.270
+Handout pekerjaan rumah kemudian modul 10.
+
+04:23.270 --> 04:28.520
+Sama seperti resume saya membawa Anda ke tingkat berikutnya di mana saya akan memberi tahu Anda bagaimana
+
+04:28.520 --> 04:32.720
+Anda harus siap untuk wawancara Linux Anda dan itu adalah sesuatu tentang Linux.
+
+04:32.750 --> 04:37.010
+Apa itu i. T. pekerjaan yang Anda miliki I. T. manajemen ketika Anda melamar pekerjaan Linux.
+
+04:37.010 --> 04:38.470
+Apa yang Anda harapkan?
+
+04:38.600 --> 04:43.640
+Kemudian wawancarai lokakarya aktual vocab lalu sertifikasi jika Anda ingin masuk ke sertifikasi Anda
+
+04:43.640 --> 04:49.250
+ingin mendapatkan sertifikasi di Linux maka kami memiliki 200 pertanyaan wawancara plus yang akan saya berikan kepada
+
+04:49.250 --> 04:49.720
+Anda.
+
+04:49.790 --> 04:53.390
+Dan tentu saja pekerjaan rumah dan selebaran dan tentu saja rekap.
+
+04:53.390 --> 04:59.720
+Ini bukan bagian dari modul hanyalah rekap dari apa yang telah kita pelajari dari kursus ini dan ujian akhir
+
+04:59.780 --> 05:01.110
+adalah tentang pertanyaan.
+
+05:01.130 --> 05:02.990
+Saya benar-benar mendesak Anda untuk mengambilnya.
+
+05:03.090 --> 05:09.000
+Jadi Anda bisa, Anda tidak dapat Anda tahu bahwa Anda berada di tempat Anda berdiri dalam wacana ini maka sumber daya
+
+05:09.000 --> 05:13.860
+tambahan saya harus berburu 20 ditambah video tambahan dan kuliah yang dapat Anda ambil jika Anda mau.
+
+05:13.980 --> 05:16.450
+Sekarang Anda putuskan sekarang Anda menjadi hakim.
+
+05:16.500 --> 05:19.320
+Apakah kursus ini benar-benar akan membuat perbedaan dalam hidup Anda.
+
+05:19.320 --> 05:20.850
+Baiklah, saya akan memberi tahu Anda ya.
+
+05:20.850 --> 05:26.400
+Jadi silakan lanjutkan dan klik buka gulungan dan Anda akan menemukan banyak sumber daya dalam kursus ini.
+
+05:26.400 --> 05:26.970
+Semoga berhasil.

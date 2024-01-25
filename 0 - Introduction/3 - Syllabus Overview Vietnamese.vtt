@@ -1,0 +1,250 @@
+WEBVTT
+
+00:00.920 --> 00:07.520
+Xin chào tất cả mọi người, tôi thực sự yêu cầu các bạn vui lòng cho tôi năm phút để xem lại giáo trình cùng nhau,
+
+00:07.850 --> 00:12.920
+bởi vì một khi bạn sẽ xem qua toàn bộ giáo trình này với tôi, bạn sẽ biết rằng đây là
+
+00:12.920 --> 00:15.890
+khóa học hoàn hảo và tốt nhất. ngoài đó.
+
+00:16.940 --> 00:17.360
+Được rồi.
+
+00:17.390 --> 00:22.160
+Tôi thực sự đã chia nhỏ toàn bộ khóa học của mình trong các mô-đun khác nhau của NetNet.
+
+00:22.550 --> 00:25.950
+Mô-đun đầu tiên là tìm hiểu khái niệm Lennix.
+
+00:25.970 --> 00:28.940
+Nó sẽ trình bày về Linux, Unix cho Linux.
+
+00:29.150 --> 00:31.070
+Và lưu ý một điều.
+
+00:31.070 --> 00:40.610
+Mỗi học phần tôi có, tôi đều có các câu đố để bạn làm, bài tập về nhà phải làm sau mỗi học phần và các tài liệu phát để bạn
+
+00:40.820 --> 00:41.510
+đọc.
+
+00:41.510 --> 00:46.490
+Bạn không thực sự phải đọc từng tờ một, nhưng thật tốt nếu bạn có những tài nguyên đó trong tay.
+
+00:47.060 --> 00:52.750
+Chuyển sang mô-đun hai, nơi chúng tôi sẽ trình bày, tải xuống, cài đặt và định cấu hình các máy Linux thực tế.
+
+00:52.780 --> 00:55.910
+Chúng ta sẽ nói về máy ảo tải xuống máy ảo đó.
+
+00:56.210 --> 01:02.030
+Chúng ta sẽ nói về những cách khác nhau để cài đặt một máy Linux sẽ bao gồm cài đặt CentOS
+
+01:02.030 --> 01:02.670
+thực tế.
+
+01:02.690 --> 01:09.290
+Tôi cũng đã bao gồm bài giảng cài đặt Red Hat Linux tùy chọn, sau đó là một số phần nào đó trên Linux, quản lý máy
+
+01:09.290 --> 01:15.830
+tính để bàn trên VM và sau đó một lần nữa kết thúc bằng các câu đố, bài tập về nhà và bài tập, chuyển sang mô-đun
+
+01:15.830 --> 01:21.320
+ba, đó là về quyền truy cập hệ thống và hệ thống tệp , và đó là về vấn đề Camonte truy cập tải xuống
+
+01:21.320 --> 01:23.870
+hệ thống Linux, cài đặt PUDI.
+
+01:24.110 --> 01:26.140
+Bạn cần biết một số điều quan trọng về Linux.
+
+01:26.150 --> 01:28.880
+Tôi đã trình bày phần giới thiệu đó về hệ thống tệp.
+
+01:28.890 --> 01:30.920
+Các hệ thống tệp khác nhau có sẵn sau đó là gì?
+
+01:30.920 --> 01:39.020
+Basic Command CDPR và đó là nơi chúng tôi sẽ bắt đầu Linux Canalis của chúng tôi chuyển sang hệ thống tệp, như bạn
+
+01:39.260 --> 01:44.900
+sẽ thấy, tôi sẽ bỏ qua phần đánh giá sử dụng rất nhanh và xem qua nó trực tiếp.
+
+01:44.900 --> 01:50.660
+Liệt kê các lệnh sao chép cảm ứng, tệp ràng buộc và ký tự đại diện thư mục mềm mại các câu đố Carelink, bài tập về nhà và tài liệu
+
+01:50.660 --> 01:51.200
+phát tay.
+
+01:51.200 --> 01:57.470
+Sau đó, Mô-đun bốn là về các nguyên tắc cơ bản của Linux, các lệnh và bộ bài thay đổi tất cả những gì về điều này.
+
+01:57.470 --> 01:58.880
+Quyền cho phép tệp.
+
+01:58.880 --> 02:06.080
+Ngoài ra, ACBL có thể kiểm soát truy cập, đó là chi tiết đi sâu vào đám cỏ dại, hoàn thành tab trợ giúp.
+
+02:06.080 --> 02:12.650
+Thêm văn bản vào các lệnh quản lý tệp của đường ống tệp hiển thị lệnh bộ lọc lệnh so sánh các tệp.
+
+02:12.650 --> 02:19.220
+Vì vậy, nhiều lệnh bắt đầu học trong mô-đun bốn là về nền tảng Linux và kết
+
+02:19.220 --> 02:24.590
+hợp phân tách FAS, Linux vs. Windows và tất nhiên là các câu đố, bài tập về nhà và phân phát
+
+02:24.590 --> 02:28.160
+quản trị hệ thống năm mô-đun để đưa thêm một chút vào phần quản trị thực tế.
+
+02:28.370 --> 02:34.160
+Chúng tôi sẽ nói về cách chúng tôi có thể v. tôi. một sự khác biệt tệp giữa VM khi được nói, đó là lệnh
+
+02:34.160 --> 02:34.550
+thay thế.
+
+02:34.850 --> 02:37.460
+Chúng ta sẽ nói về tài khoản Suda quản lý tài khoản của anh ấy.
+
+02:37.970 --> 02:44.870
+Bạn đang quản lý người dùng Linux thông qua Active Directory hoặc xác thực bên thứ ba khác như thế nào?
+
+02:45.050 --> 02:50.090
+Chúng ta cũng sẽ nói về sự khác biệt giữa ý tưởng LDAP được tổ chức bởi một tổ chức trưởng lão cởi mở.
+
+02:50.390 --> 02:52.820
+Sau đó, chúng ta sẽ nói về các lệnh tiện ích hệ thống.
+
+02:53.060 --> 02:59.630
+Luôn luôn bảo trì lệnh thay đổi tên máy chủ hệ thống tìm kiếm thông tin hệ thống mật khẩu có thể khôi phục S. Ô. S phóng viên môi trường
+
+02:59.630 --> 03:01.970
+biến hơn rất nhiều.
+
+03:01.970 --> 03:04.490
+Tôi đã hụt hơi và chúng ta vẫn còn ở mô-đun năm.
+
+03:04.490 --> 03:05.660
+Chuyển sang mô-đun sáu.
+
+03:05.810 --> 03:07.640
+Chúng ta sẽ nói về tất cả về kịch bản shell.
+
+03:07.640 --> 03:12.590
+Tôi sẽ chỉ cho bạn nếu sau đó viết kịch bản theo kịch bản, làm theo kịch bản và nhiều kịch bản.
+
+03:12.830 --> 03:16.130
+Mô-đun bảy hiện đang hoạt động máy chủ và cập nhật hệ thống.
+
+03:16.310 --> 03:22.730
+Chúng ta sẽ nói về các thành phần mạng, liên kết các cổng mạng, tải xuống tệp từ Internet.
+
+03:22.940 --> 03:31.250
+Các nguồn MSH nói rằng chúng ta sẽ nói về tên máy chủ DNS và tra cứu IP, A. P. Cronie bất đồng chính kiến, thư và tất cả các dịch
+
+03:31.250 --> 03:32.420
+vụ mà bạn thấy.
+
+03:32.570 --> 03:34.730
+Tôi không chỉ định ra đi thật nhanh.
+
+03:34.730 --> 03:39.470
+Tôi thực sự sẽ làm việc với bạn để tiếp tục tải xuống cấu hình im lặng từng máy chủ này.
+
+03:40.310 --> 03:43.370
+Sau đó, Modulate là tất cả về quản lý đĩa tất cả các cấp độ chạy cùng nhau.
+
+03:43.370 --> 03:44.690
+Chúng ta sẽ nói về những tranh chấp.
+
+03:44.930 --> 03:50.630
+LVM là phần lớn nhất trong số này, nơi chúng ta sẽ đề cập đến mọi thứ về LVM thêm đĩa, xóa đĩa.
+
+03:50.810 --> 03:56.330
+Chúng ta sẽ nói về việc mở rộng không gian phân vùng hiện có hệ thống tệp Ra'ed.
+
+03:56.330 --> 04:00.350
+Kiểm tra chủ đề lớn hoàn chỉnh của Neff về NFZ được so sánh.
+
+04:00.530 --> 04:02.300
+Tôi đã bao gồm tất cả mọi thứ từ đầu.
+
+04:02.540 --> 04:06.740
+Cũng bao gồm sự khác biệt giữa dòng mô-đun của hương liệu đã có.
+
+04:06.800 --> 04:10.340
+OK, bây giờ cho đến mô-đun tám, mọi thứ đã được đề cập về mặt kỹ thuật.
+
+04:10.520 --> 04:11.810
+Tôi sẽ không bỏ rơi bạn ngay tại đây.
+
+04:11.810 --> 04:16.840
+Tôi thực sự đang nắm tay bạn và lấy hai dòng mô-đun về cách bạn nên có sơ yếu lý lịch của mình.
+
+04:16.870 --> 04:22.250
+Chúng tôi sẽ có một hội thảo sơ yếu lý lịch, thư xin việc, tiếp xúc với các công nghệ khác, phát bài tập về nhà.
+
+04:22.400 --> 04:24.200
+Sau đó, Mô-đun mười giống như sơ yếu lý lịch.
+
+04:24.200 --> 04:29.170
+Tôi sẽ đưa bạn đến cấp độ tiếp theo, nơi tôi sẽ cho bạn biết bạn nên chuẩn bị như thế nào cho các cuộc phỏng vấn Linux
+
+04:29.210 --> 04:29.810
+của mình.
+
+04:30.050 --> 04:32.450
+Và đó là điều gì đó về Linux.
+
+04:32.720 --> 04:33.710
+Nó là gì?
+
+04:33.710 --> 04:37.040
+Những công việc mà chúng tôi có Tôi. T. quản lý và bạn xin việc Linux.
+
+04:37.040 --> 04:41.660
+Bạn cần mong đợi điều gì sau đó vào hội thảo, hội thảo thực tế, rồi chứng nhận?
+
+04:41.660 --> 04:47.540
+Nếu bạn muốn lấy chứng chỉ, bạn muốn có chứng chỉ và Linux, thì chúng tôi có hơn 200 câu hỏi phỏng vấn mà
+
+04:47.540 --> 04:51.200
+tôi sẽ đưa ra cho bạn và tất nhiên, bạn sẽ phải tự tay thực hiện.
+
+04:51.560 --> 04:53.420
+Và sau đó, tất nhiên, tóm tắt lại.
+
+04:53.420 --> 04:55.520
+Đây không phải là một phần của mô-đun chỉ là một bản tóm tắt.
+
+04:55.520 --> 05:00.290
+Chúng tôi đã học được gì từ khóa học này và kỳ thi cuối kỳ sắp tới.
+
+05:00.670 --> 05:06.730
+Câu hỏi, tôi thực sự mong bạn thực hiện điều đó để bạn có thể, bạn biết đấy, rằng bạn đang đứng ở vị trí của một bài
+
+05:06.740 --> 05:08.980
+diễn văn, sau đó là các nguồn bổ sung.
+
+05:08.990 --> 05:13.700
+Tôi có hai 20 video bổ sung và một bài giảng mà bạn có thể tham gia nếu muốn.
+
+05:13.930 --> 05:16.200
+Bây giờ bạn quyết định, bây giờ bạn là thẩm phán.
+
+05:16.420 --> 05:19.060
+Khóa học này có thực sự tạo ra sự khác biệt trong cuộc sống của bạn không?
+
+05:19.300 --> 05:20.080
+Tôi sẽ nói cho bạn biết.
+
+05:20.080 --> 05:20.830
+Nó sẽ được thôi.
+
+05:20.860 --> 05:26.390
+Vì vậy, hãy tiếp tục và nhấp vào Unroll và bạn sẽ tìm thấy rất nhiều tài nguyên trong trường hợp này.
+
+05:26.410 --> 05:26.980
+Chúc may mắn.

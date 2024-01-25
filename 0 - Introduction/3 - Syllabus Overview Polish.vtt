@@ -1,0 +1,232 @@
+WEBVTT
+
+00:00.950 --> 00:02.140
+Cześć wszystkim.
+
+00:02.240 --> 00:08.660
+Naprawdę proszę was, proszę, dajcie mi pięć minut na wspólne przejrzenie sylabusa, ponieważ kiedy
+
+00:08.660 --> 00:14.390
+pójdziecie ze mną do tego całego sylabusa, dowiecie się, że jest to
+
+00:14.390 --> 00:16.910
+idealny i najlepszy kurs.
+
+00:17.030 --> 00:17.450
+W porządku.
+
+00:17.450 --> 00:22.550
+Właściwie podzieliłem cały kurs na 10 różnych modułów.
+
+00:22.550 --> 00:25.990
+Pierwszy moduł dotyczy zrozumienia koncepcji Linuksa.
+
+00:25.990 --> 00:29.080
+Omówi on system Linux jako Unix Wars Linux.
+
+00:29.270 --> 00:38.360
+I zwróć uwagę na jedną rzecz, którą mam każdy moduł, w której zawarłem quizy, abyś odrobił zadanie domowe po każdym
+
+00:38.360 --> 00:41.520
+module i materiały informacyjne do przeczytania.
+
+00:41.540 --> 00:46.860
+Tak naprawdę nie musisz czytać każdej ulotki, ale dobrze jest mieć te zasoby w ręku.
+
+00:47.090 --> 00:53.300
+Przechodząc do modułu drugiego, w którym omówimy instalację i konfigurację rzeczywistych maszyn linuxowych lub porozmawiamy
+
+00:53.300 --> 00:56.230
+o pobraniu tej maszyny przez maszynę wirtualną.
+
+00:56.240 --> 01:00.340
+Porozmawiamy o tym, jakie są różne sposoby instalacji maszyny z systemem Linux.
+
+01:00.410 --> 01:02.750
+Następnie omówimy faktyczną wysyłkę do instalacji w USA.
+
+01:02.750 --> 01:07.940
+Dołączyłem również opcjonalny wykład instalacyjny Red Hat Linux.
+
+01:07.940 --> 01:15.050
+Następnie trochę na temat zarządzania pulpitem Linux na maszynie wirtualnej, a następnie znowu kończąc pracę domową i materiały informacyjne z
+
+01:15.050 --> 01:15.500
+quizów.
+
+01:15.500 --> 01:21.290
+Przechodząc do Modułu trzeciego, który dotyczy dostępu do systemu i systemu plików i który dotyczy monitów o dostęp
+
+01:21.320 --> 01:26.170
+do pobierania systemu Linux z zainstalowanej szpachli, musisz wiedzieć kilka ważnych rzeczy na temat Linuksa.
+
+01:26.210 --> 01:28.900
+Omówiłem to wprowadzenie do systemu plików.
+
+01:28.910 --> 01:33.530
+Jakie są różne systemy plików, które są dostępne, to podstawowe polecenie GDP WD i Alice.
+
+01:33.530 --> 01:34.850
+Od tego zaczniemy.
+
+01:34.850 --> 01:40.340
+Czy polecenie Linuksa polega na przejściu do systemu plików, jak zobaczysz.
+
+01:40.340 --> 01:47.000
+Pominę ich bardzo szybką recenzję użytkowania i przejdę bezpośrednio do niej, wymieniając polecenia kopiowania dotykowego, wyszukując pliki i
+
+01:47.000 --> 01:51.200
+pisząc symbole wieloznaczne offline Hertling rozwiązuje zadania domowe i materiały informacyjne.
+
+01:51.200 --> 01:56.780
+Następnie moduł 4 dotyczy podstaw Linuxa, zmiany składni poleceń.
+
+01:56.780 --> 01:58.870
+Chodzi o pozwolenie na dostęp do pliku.
+
+01:58.880 --> 02:04.990
+ACL może również kontrolować dostęp, co jest szczegółem, który dostaje się do chwastów w celu uzyskania pomocy.
+
+02:05.090 --> 02:09.540
+Uzupełnianie tabulacji dodając tekst do polecenia zarządzania plikami potoków plików.
+
+02:09.560 --> 02:16.670
+Wyświetl komendy filtry komendy porównaj pliki, tak wiele poleceń zaczyna się uczyć w module 4, który
+
+02:16.670 --> 02:19.600
+dotyczy Linux-a i łączenia plików dzielonych.
+
+02:19.610 --> 02:25.190
+Linux vs. Windows i oczywiście quizy praca domowa i moduł informacyjny
+
+02:25.190 --> 02:28.290
+Administracja 5 sys coraz bardziej wkracza w rzeczywistą część administracyjną.
+
+02:28.430 --> 02:34.130
+Porozmawiamy o tym, jak możemy VII różnicę PLIKU między VM, gdy powiedział, że to polecenie
+
+02:34.130 --> 02:34.640
+podstawienia.
+
+02:34.880 --> 02:37.980
+Porozmawiamy o użyciu pseudo konta zarządzania kontem.
+
+02:38.030 --> 02:45.110
+Jak możesz zarządzać użytkownikami Linuksa za pośrednictwem usługi Active Directory lub innych osób przy uwierzytelnianiu stron trzecich.
+
+02:45.110 --> 02:51.290
+Porozmawiamy również o różnicy między LDN a tym pomysłem, który wpadł na otwartą aplikację alt,
+
+02:51.290 --> 02:57.830
+a następnie porozmawiamy o komendach narzędzia systemowego, zawsze komenda konserwacji, zmiana nazwy hosta systemu, znalezienie informacji o
+
+02:57.830 --> 03:03.320
+systemie, hasło odzyskiwania S. O. S reporterowe środowisko jest różne, ale
+
+03:03.320 --> 03:08.630
+o wiele więcej już nie mogę złapać tchu i nadal przechodzimy do modułu 5, przechodząc do modułu 6, porozmawiamy o
+
+03:08.630 --> 03:12.810
+skrypcie powłoki, pokażę ci, czy to dobre dla luźnych chwytów, czy skrypty i wiele skryptów.
+
+03:12.860 --> 03:16.400
+Moduły 7 serwerów sieciowych i aktualizacje systemu.
+
+03:16.400 --> 03:22.700
+Porozmawiamy o firmach sieciowych, które łączą porty sieciowe pobierające pliki z Internetu, ponieważ mędrzec SSA działa jako informacja, że porozmawiamy o
+
+03:22.870 --> 03:30.800
+nazwie hosta DNS i wyszukiwaniu adresu IP A. P. crony d wyślij pocztę i wszystkie te
+
+03:30.800 --> 03:32.550
+usługi, które widzisz.
+
+03:32.660 --> 03:37.350
+Nie zamierzam po prostu iść tam, gdzie naprawdę szybko, tak naprawdę
+
+03:37.350 --> 03:42.770
+zamierzam z tobą współpracować, aby przejść dalej i pobrać, zainstalować, skonfigurować każdy z tych
+
+03:42.770 --> 03:47.930
+serwerów, a następnie modulacja polega na zarządzaniu dyskami dotkniętymi poziomami Rona, porozmawiamy o partycjach
+
+03:48.020 --> 03:53.780
+dysku l VM jest największą częścią tego, gdzie omówimy wszystko na temat LV Dodaję dysk
+
+03:54.460 --> 04:01.640
+usuwający dysk, mówimy o rozszerzeniu istniejącego systemu wymiany partycji wymiany przestrzeni dyskowej sprawdź NF pierwszy pełny duży temat NFC
+
+04:01.640 --> 04:07.110
+kompaktowy Objąłem wszystko od podstaw, obejmowałem również różnicę między wszystkimi modułami smaków rudowłosych OK.
+
+04:07.130 --> 04:10.610
+Teraz aż do modulowania wszystko jest omówione od strony technicznej.
+
+04:10.610 --> 04:11.800
+Nie zostawiam cię tutaj.
+
+04:11.810 --> 04:16.860
+Tak naprawdę trzymam cię za rękę i opowiadam moduł o tym, jak powinieneś otrzymać CV.
+
+04:16.870 --> 04:18.910
+Otrzymamy CV lub list motywacyjny z warsztatu.
+
+04:19.050 --> 04:21.070
+Narażenie na inne technologie.
+
+04:21.230 --> 04:23.270
+Ulotki z prac domowych, a następnie moduł 10.
+
+04:23.270 --> 04:28.520
+Podobnie jak wznowić, zabieram cię na następny poziom, gdzie powiem ci, jak powinieneś być
+
+04:28.520 --> 04:32.720
+przygotowany na wywiady z Linuksem, i to jest coś o Linuksie.
+
+04:32.750 --> 04:37.010
+Co to jest ja T. prace, które masz. T. zarządzanie, kiedy ubiegasz się o pracę w systemie Linux.
+
+04:37.010 --> 04:38.470
+Czego musisz się spodziewać.
+
+04:38.600 --> 04:43.640
+Następnie przesłuchaj wywiad z rzeczywistymi warsztatami vocab, a następnie certyfikację. Jeśli chcesz uzyskać
+
+04:43.640 --> 04:49.250
+certyfikat, chcesz uzyskać certyfikat w systemie Linux, mamy ponad 200 pytań do rozmowy kwalifikacyjnej, które ci
+
+04:49.250 --> 04:49.720
+dam.
+
+04:49.790 --> 04:53.390
+No i oczywiście praca domowa i materiały informacyjne, a potem oczywiście podsumowanie.
+
+04:53.390 --> 04:59.720
+To nie jest część modułu, to tylko podsumowanie tego, czego nauczyliśmy się z tego kursu, a egzamin
+
+04:59.780 --> 05:01.110
+końcowy dotyczy pytania.
+
+05:01.130 --> 05:02.990
+Naprawdę nalegam, abyś to wziął.
+
+05:03.090 --> 05:09.000
+Więc nie mogłeś nie wiedzieć, że stoisz w tym dyskursie, a następnie dodatkowe zasoby Muszę polować
+
+05:09.000 --> 05:13.860
+na 20 plus dodatkowe filmy i wykład, które możesz wziąć, jeśli chcesz.
+
+05:13.980 --> 05:16.450
+Teraz decydujesz, że teraz będziesz sędzią.
+
+05:16.500 --> 05:19.320
+Czy ten kurs naprawdę zmieni Twoje życie?
+
+05:19.320 --> 05:20.850
+Cóż, powiem ci, że tak.
+
+05:20.850 --> 05:26.400
+Więc proszę, kliknij rozwijaj, a na tym kursie znajdziesz mnóstwo zasobów.
+
+05:26.400 --> 05:26.970
+Powodzenia.

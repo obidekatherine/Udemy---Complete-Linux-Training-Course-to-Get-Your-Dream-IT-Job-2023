@@ -1,0 +1,241 @@
+WEBVTT
+
+00:00.920 --> 00:07.520
+Hallo, iedereen, ik vraag jullie echt om me vijf minuten te geven om samen de syllabus door te nemen,
+
+00:07.850 --> 00:12.920
+want als je eenmaal deze hele syllabus met me doorneemt, zul je weten dat dit
+
+00:12.920 --> 00:15.890
+de perfecte en beste cursus is die er is.
+
+00:16.940 --> 00:17.360
+Oké.
+
+00:17.390 --> 00:22.160
+Ik heb eigenlijk mijn hele cursus in NetNet uitgesplitst in verschillende modules.
+
+00:22.550 --> 00:25.950
+De eerste module gaat over het begrijpen van het Lennix concept.
+
+00:25.970 --> 00:28.940
+Het gaat over Linux, Unix voor Linux.
+
+00:29.150 --> 00:31.070
+En merk één ding op.
+
+00:31.070 --> 00:41.510
+Bij elke module heb ik quizzen gevoegd, huiswerk om na elke module te maken en hand-outs om te lezen.
+
+00:41.510 --> 00:46.490
+Je hoeft niet echt elke hand voor te lezen, maar het is goed om die bronnen achter de hand te hebben.
+
+00:47.060 --> 00:52.750
+We gaan door naar module twee, waar we echte Linux machines zullen downloaden, installeren en configureren.
+
+00:52.780 --> 00:55.910
+We zullen het hebben over het downloaden van die virtuele machine.
+
+00:56.210 --> 01:02.030
+We zullen het hebben over wat de verschillende manieren zijn om een Linux machine te installeren die de eigenlijke CentOS installatie zullen
+
+01:02.030 --> 01:02.670
+behandelen.
+
+01:02.690 --> 01:09.290
+Ik heb ook de optionele Red Hat Linux installatie lezing opgenomen, dan wat over Linux, desktop management op
+
+01:09.290 --> 01:15.830
+VM en dan weer eindigend met quizzen, huiswerk en hand-outs, overgaand naar module drie, die gaat over systeem
+
+01:15.830 --> 01:21.320
+toegang en bestandssysteem, en dat gaat over Camonte problemen met toegang tot Linux systeem
+
+01:21.320 --> 01:23.870
+downloaden installeren PUDI.
+
+01:24.110 --> 01:26.140
+Je moet enkele belangrijke dingen weten over Linux.
+
+01:26.150 --> 01:28.880
+Ik heb die inleiding tot het bestandssysteem behandeld.
+
+01:28.890 --> 01:30.920
+Welke verschillende bestandssystemen zijn er dan?
+
+01:30.920 --> 01:39.020
+De Basic Command CDPR en dat is waar we gaan beginnen met onze Linux Canalis om over te gaan naar een bestandssysteem, zoals je gaat
+
+01:39.260 --> 01:44.900
+zien, ik ga ze overslaan van een zeer snelle gebruiksoverzicht en ga er direct overheen.
+
+01:44.900 --> 01:51.200
+Lijst met touch copy commando's, bindende bestanden en directory wildcard zacht Carelink quizzen, huiswerk en hand-outs.
+
+01:51.200 --> 01:57.470
+Vervolgens gaat module vier over Linux fundamentals, commando's en decks veranderen waar het om gaat.
+
+01:57.470 --> 01:58.880
+Toestemming om in te dienen.
+
+01:58.880 --> 02:06.080
+Ook kan ACBL de toegang controleren, wat een gedetailleerd krijgen in het onkruid, het krijgen van hulp tabblad voltooiing.
+
+02:06.080 --> 02:12.650
+Tekst toevoegen aan de bestandsbeheerscommando's van de file pipe's display commando filters commando bestanden vergelijken.
+
+02:12.650 --> 02:19.220
+Zoveel commando's beginnen te leren in module vier die gaat over Linux fundamenteel en het combineren
+
+02:19.220 --> 02:24.590
+van het splitsen van FAS, Linux vs. Windows en natuurlijk quizzen, huiswerk en hand-out module
+
+02:24.590 --> 02:28.160
+vijf systeembeheer die wat meer ingaan op het eigenlijke beheer.
+
+02:28.370 --> 02:34.160
+We zullen praten over hoe we v. i. een bestand verschil tussen VM wanneer gezegd, dat is substitutie
+
+02:34.160 --> 02:34.550
+commando.
+
+02:34.850 --> 02:37.460
+We zullen het hebben over zijn account management Suda account.
+
+02:37.970 --> 02:44.870
+Hoe beheert u Linux-gebruikers via Active Directory of andere authenticatie van derden?
+
+02:45.050 --> 02:50.090
+We zullen het ook hebben over het verschil tussen een LDAP-idee en een open ouderschap.
+
+02:50.390 --> 02:52.820
+Dan zullen we het hebben over de commando's van het systeemhulpprogramma.
+
+02:53.060 --> 02:59.630
+Altijd maintenace commando veranderen van systeem hostname vinden van systeem informatie herstelbaar wachtwoord S. O. S reporter omgevingsvariabele
+
+02:59.630 --> 03:01.970
+veel meer.
+
+03:01.970 --> 03:04.490
+Ik raak al buiten adem en we zijn nog steeds bij module vijf.
+
+03:04.490 --> 03:05.660
+Verder met module zes.
+
+03:05.810 --> 03:07.640
+We praten over alles wat met shell scripting te maken heeft.
+
+03:07.640 --> 03:12.590
+Ik zal je laten zien als dan script volgt script, doe de scripts en veel scripts.
+
+03:12.830 --> 03:16.130
+Module zeven werkt nu servers en het systeem werkt bij.
+
+03:16.310 --> 03:22.730
+We zullen het hebben over netwerkcomponenten, het verbinden van netwerkpoorten, het downloaden van bestanden van het internet.
+
+03:22.940 --> 03:31.250
+MSH bronnen vertellen dat we het zullen hebben over DNS hostname en IP lookup, A. P. Cronie dissent, mail en al die diensten
+
+03:31.250 --> 03:32.420
+die je ziet.
+
+03:32.570 --> 03:34.730
+Ik ga niet zomaar snel weg.
+
+03:34.730 --> 03:39.470
+Ik ga met je samenwerken om al deze servers te downloaden en stil te configureren.
+
+03:40.310 --> 03:43.370
+Dan gaat Modulate over schijfbeheer met alle niveaus samen.
+
+03:43.370 --> 03:44.690
+We zullen praten over disputen.
+
+03:44.930 --> 03:50.630
+LVM is het grootste deel hiervan, waar we alles gaan behandelen over LVM, schijf toevoegen, schijf verwijderen.
+
+03:50.810 --> 03:56.330
+We gaan het hebben over het uitbreiden van de bestaande partitie suau ruimte Ra'ed bestandssysteem.
+
+03:56.330 --> 04:00.350
+Bekijk Neff's complete grote onderwerp van NFZ vergeleken.
+
+04:00.530 --> 04:02.300
+Ik heb alles vanaf nul afgedekt.
+
+04:02.540 --> 04:06.740
+Ook het verschil tussen de reeds bestaande smaak van de module lijn.
+
+04:06.800 --> 04:10.340
+Oké, tot en met module acht is alles behandeld aan de technische kant.
+
+04:10.520 --> 04:11.810
+Ik laat je hier niet achter.
+
+04:11.810 --> 04:16.840
+Ik hou eigenlijk je hand vast en neem twee module lijnen over hoe je je cv moet hebben.
+
+04:16.870 --> 04:22.250
+We hebben een cv-workshop, sollicitatiebrief, kennismaking met andere technologieën, huiswerkbegeleiding.
+
+04:22.400 --> 04:24.200
+Dan module tien net als cv.
+
+04:24.200 --> 04:29.810
+Ik neem je mee naar het volgende niveau waar ik je ga vertellen hoe je je moet voorbereiden op je Linux interviews.
+
+04:30.050 --> 04:32.450
+En dat is iets over Linux.
+
+04:32.720 --> 04:33.710
+Wat is het?
+
+04:33.710 --> 04:37.040
+Banen die we hebben I. T. management en je solliciteert naar Linux baan.
+
+04:37.040 --> 04:41.660
+Wat moet je dan verwachten in de workshop, de eigenlijke workshop, dan de certificering?
+
+04:41.660 --> 04:47.540
+Als je je wilt verdiepen in certificering en Linux, dan hebben we 200 plus interviewvragen
+
+04:47.540 --> 04:51.200
+die ik je ga geven en natuurlijk hand-outs.
+
+04:51.560 --> 04:53.420
+En dan, natuurlijk, recapitulatie.
+
+04:53.420 --> 04:55.520
+Dit is geen onderdeel van de module, alleen een samenvatting.
+
+04:55.520 --> 05:00.290
+Wat we geleerd hebben van deze cursus en het eindexamen gaat over.
+
+05:00.670 --> 05:06.730
+Vraag, ik dring er echt op aan dat je dat zou kunnen nemen, weet je, dat je waar je staat van een
+
+05:06.740 --> 05:08.980
+discours, dan extra middelen.
+
+05:08.990 --> 05:13.700
+Ik heb twee 20 plus extra video's en een lezing die je zou kunnen nemen als je wilt.
+
+05:13.930 --> 05:16.200
+Nu beslis jij, nu ben jij de rechter.
+
+05:16.420 --> 05:19.060
+Gaat deze cursus echt een verschil maken in je leven?
+
+05:19.300 --> 05:20.080
+Nou, ik zal het je vertellen.
+
+05:20.080 --> 05:20.830
+Ja.
+
+05:20.860 --> 05:26.390
+Dus ga je gang en klik op Unroll en je gaat tonnen bronnen vinden in deze zaak.
+
+05:26.410 --> 05:26.980
+Veel geluk.

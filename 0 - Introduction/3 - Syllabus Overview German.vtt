@@ -1,0 +1,229 @@
+WEBVTT
+
+00:00.950 --> 00:02.140
+Hallo zusammen.
+
+00:02.240 --> 00:08.660
+Ich bitte Sie wirklich, mir fünf Minuten Zeit zu geben, um gemeinsam den Lehrplan durchzugehen, denn sobald Sie
+
+00:08.660 --> 00:14.390
+mit mir dorthin gehen, wo dieser gesamte Lehrplan ist, werden Sie wissen, dass dies der perfekte
+
+00:14.390 --> 00:16.910
+und beste Kurs da draußen ist.
+
+00:17.030 --> 00:17.450
+Gut.
+
+00:17.450 --> 00:22.550
+Ich habe meinen gesamten Kurs in 10 verschiedene Module unterteilt.
+
+00:22.550 --> 00:25.990
+Im ersten Modul geht es um das Verständnis des Linux-Konzepts.
+
+00:25.990 --> 00:29.080
+Es wird über Linux als Unix Wars Linux behandelt.
+
+00:29.270 --> 00:38.360
+Und beachten Sie, dass jedes Modul, das ich habe, Quizfragen enthält, mit denen Sie nach jedem Modul Hausaufgaben
+
+00:38.360 --> 00:41.520
+machen und Handzettel lesen können.
+
+00:41.540 --> 00:46.860
+Sie müssen nicht wirklich jedes Handout lesen, aber es ist gut, diese Ressourcen in der Hand zu haben.
+
+00:47.090 --> 00:53.300
+Fahren Sie mit Modul 2 fort, in dem wir uns mit der Download-Installation und Konfiguration tatsächlicher Linux-Maschinen befassen oder über
+
+00:53.300 --> 00:56.230
+das Herunterladen dieser Bewegungsmaschine durch virtuelle Maschinen sprechen.
+
+00:56.240 --> 01:00.340
+Wir werden über die verschiedenen Möglichkeiten zur Installation eines Linux-Computers sprechen.
+
+01:00.410 --> 01:02.750
+Dann werden wir die tatsächlich an die USA gesendete Installation behandeln.
+
+01:02.750 --> 01:07.940
+Ich habe auch die optionale Red Hat Linux-Installationsvorlesung beigefügt.
+
+01:07.940 --> 01:15.500
+Dann etwas über Linux-Desktop-Management auf VM und dann wieder mit Quiz-Hausaufgaben und Handouts.
+
+01:15.500 --> 01:21.290
+Wenn Sie mit Modul 3 fortfahren, in dem es um Systemzugriff und Dateisystem geht und bei dem es um Befehlsaufforderungen geht,
+
+01:21.320 --> 01:26.170
+auf das Linux-System zuzugreifen und installierten Kitt herunterzuladen, müssen Sie einige wichtige Dinge über Linux wissen.
+
+01:26.210 --> 01:28.900
+Ich habe diese Einführung in das Dateisystem behandelt.
+
+01:28.910 --> 01:33.530
+Was sind die verschiedenen Dateisysteme, die verfügbar sind, als der Grundbefehl GDP WD und Alice.
+
+01:33.530 --> 01:34.850
+Hier fangen wir an.
+
+01:34.850 --> 01:40.340
+Bewegen sich Linux-Befehlslügen auf ein Dateisystem, wie Sie sehen werden?
+
+01:40.340 --> 01:47.000
+Ich werde ihnen eine sehr schnelle Überprüfung überspringen und sie direkt durchgehen, indem ich Touch-Kopierbefehle aufführe, Dateien
+
+01:47.000 --> 01:51.200
+finde und Ihnen Platzhalter offline schreibe. Hertling-Quiz Hausaufgaben und Handouts.
+
+01:51.200 --> 01:56.780
+Dann geht es in Modul 4 um Linux-Grundlagenbefehle.
+
+01:56.780 --> 01:58.870
+Hier geht es um die Berechtigung zum Einreichen von Dateien.
+
+01:58.880 --> 02:04.990
+ACL kann auch auf die Kontrolle zugreifen, bei der es sich um ein Detail handelt, das in das Unkraut gelangt, um Hilfe zu erhalten.
+
+02:05.090 --> 02:09.540
+Tab-Vervollständigung Hinzufügen von Text zum Dateiverwaltungs-Dateiverwaltungsbefehl.
+
+02:09.560 --> 02:16.670
+Befehl zum Anzeigen von Befehlsfiltern Befehl zum Vergleichen von Dateien In Modul 4 lernen so viele Befehle, dass es um
+
+02:16.670 --> 02:19.600
+Linux geht und um das Teilen von Dateien.
+
+02:19.610 --> 02:25.190
+Linux vs. Windows und natürlich Quiz Hausaufgaben und Handout Modul
+
+02:25.190 --> 02:28.290
+5 Sys Administration immer mehr in den eigentlichen Administrationsteil.
+
+02:28.430 --> 02:34.130
+Wir werden darüber sprechen, wie wir einen Unterschied zwischen VMs feststellen können, wenn es sich um einen Substitutionsbefehl
+
+02:34.130 --> 02:34.640
+handelt.
+
+02:34.880 --> 02:37.980
+Wir werden über die Verwendung des Kontoverwaltungs-Pseudokontos sprechen.
+
+02:38.030 --> 02:45.110
+Wie können Sie Ihre Linux-Benutzer über Active Directory oder bei der Authentifizierung durch Dritte verwalten?
+
+02:45.110 --> 02:51.290
+Wir werden auch über den Unterschied zwischen LDN und dieser Idee sprechen, die von einer offenen Alt-App übernommen
+
+02:51.290 --> 02:57.830
+wurde. Dann wird über Systemdienstprogrammbefehle gesprochen, bei denen der Wartungsbefehl immer den Systemhostnamen ändert und das Kennwort für die
+
+02:57.830 --> 03:03.320
+Wiederherstellung von Systeminformationen S findet. Ö. S Reporter-Umgebung variieren, aber viel mehr Ich
+
+03:03.320 --> 03:08.630
+bin bereits außer Atem und wir gehen immer noch zu Modul 5 über, um über Modul 6 zu sprechen. Wir werden über alles
+
+03:08.630 --> 03:12.810
+über Shell-Scripting sprechen. Ich werde Ihnen zeigen, ob das gut für lose Griffe ist, waren Skripte und viele Skripte.
+
+03:12.860 --> 03:16.400
+Modul 7 Netzwerkserver und die Systemaktualisierungen.
+
+03:16.400 --> 03:22.700
+Wir werden über Netzwerkunternehmen sprechen, die Netzwerkports verbinden, um Dateien aus dem Internet herunterzuladen, während SSA Sage als Hinweis darauf fungiert,
+
+03:22.870 --> 03:30.800
+dass wir über DNS-Hostnamen und IP-Lookup A sprechen. P. P. crony d sende Mail und all diese
+
+03:30.800 --> 03:32.550
+Dienste, die du siehst.
+
+03:32.660 --> 03:37.350
+Ich werde nicht nur sehr schnell dahin gehen, wo ich wirklich bin. Ich
+
+03:37.350 --> 03:42.770
+werde tatsächlich mit Ihnen zusammenarbeiten, um die Download-Installation herunterzuladen. Konfigurieren Sie jeden dieser Server. Bei der
+
+03:42.770 --> 03:47.930
+Modulation dreht sich alles um die Datenträgerverwaltung, die alle von den Ron-Ebenen berührt wird. Wir
+
+03:48.020 --> 03:53.780
+werden über Datenträgerpartitionen sprechen l VM ist ein größter Teil davon, in dem wir alles über LV behandeln.
+
+03:54.460 --> 04:01.640
+Ich füge Festplattenentfernungsdatenträger hinzu. Wir werden über die Erweiterung des vorhandenen Partitions-Swap-Space-Raid-Dateisystems sprechen. Überprüfen Sie NF. Erstes vollständiges großes Thema eines NFC
+
+04:01.640 --> 04:07.110
+kompakt Ich habe alles von Grund auf neu behandelt und auch den Unterschied zwischen allen Redhead-Geschmacksrichtungen behandelt.
+
+04:07.130 --> 04:10.610
+Jetzt bis zum Modulieren ist alles auf der technischen Seite abgedeckt.
+
+04:10.610 --> 04:11.800
+Ich lasse dich nicht hier.
+
+04:11.810 --> 04:16.860
+Ich halte tatsächlich Ihre Hand und nehme die Modulzeile darüber, wie Sie Ihren Lebenslauf haben sollten.
+
+04:16.870 --> 04:18.910
+Wir haben einen Lebenslauf oder ein Anschreiben für den Workshop.
+
+04:19.050 --> 04:21.070
+Exposition gegenüber anderen Technologien.
+
+04:21.230 --> 04:23.270
+Handzettel für Hausaufgaben, dann Modul 10.
+
+04:23.270 --> 04:28.520
+Genau wie im Lebenslauf bringe ich Sie auf die nächste Ebene, wo ich Ihnen sagen werde, wie
+
+04:28.520 --> 04:32.720
+Sie auf Ihre Linux-Interviews vorbereitet sein sollten, und das ist etwas über Linux.
+
+04:32.750 --> 04:37.010
+Was ist ich? T. Jobs, die du hast I. T. Management, wenn Sie sich für einen Linux-Job bewerben.
+
+04:37.010 --> 04:38.470
+Was müssen Sie erwarten?
+
+04:38.600 --> 04:43.640
+Dann Interview Vokabeln tatsächlichen Workshop dann Zertifizierung Wenn Sie in die Zertifizierung einsteigen möchten, möchten
+
+04:43.640 --> 04:49.250
+Sie eine Zertifizierung in Linux erhalten, dann haben wir mehr als 200 Interviewfragen, die ich Ihnen geben
+
+04:49.250 --> 04:49.720
+werde.
+
+04:49.790 --> 04:53.390
+Und natürlich Hausaufgaben und Handzettel und dann natürlich noch einmal.
+
+04:53.390 --> 04:59.720
+Dies ist nicht Teil des Moduls, sondern nur eine Zusammenfassung dessen, was wir aus diesem Kurs gelernt haben, und bei der Abschlussprüfung
+
+04:59.780 --> 05:01.110
+geht es um Fragen.
+
+05:01.130 --> 05:02.990
+Ich fordere Sie wirklich auf, das zu nehmen.
+
+05:03.090 --> 05:09.000
+Sie könnten also nicht wissen, dass Sie, wo Sie in diesem Diskurs stehen, dann zusätzliche Ressourcen Ich muss
+
+05:09.000 --> 05:13.860
+20 plus zusätzliche Videos und Vorträge suchen, die Sie nehmen könnten, wenn Sie wollen.
+
+05:13.980 --> 05:16.450
+Jetzt entscheidest du, dass du der Richter bist.
+
+05:16.500 --> 05:19.320
+Wird dieser Kurs wirklich einen Unterschied in Ihrem Leben machen?
+
+05:19.320 --> 05:20.850
+Nun, ich werde dir ja sagen, dass es so sein wird.
+
+05:20.850 --> 05:26.400
+Klicken Sie auf "Abrollen" und Sie werden in diesem Kurs jede Menge Ressourcen finden.
+
+05:26.400 --> 05:26.970
+Viel Glück.

@@ -1,0 +1,232 @@
+WEBVTT
+
+00:00.950 --> 00:02.140
+Ciao a tutti.
+
+00:02.240 --> 00:08.660
+Ti chiedo davvero di darmi cinque minuti per passare insieme il programma perché una volta
+
+00:08.660 --> 00:14.390
+che andrai dove questo intero programma con me saprai che questo è il corso
+
+00:14.390 --> 00:16.910
+perfetto e migliore là fuori.
+
+00:17.030 --> 00:17.450
+Tutto ok.
+
+00:17.450 --> 00:22.550
+In realtà ho suddiviso l'intero corso in 10 moduli diversi.
+
+00:22.550 --> 00:25.990
+Il primo modulo riguarda la comprensione del concetto di Linux.
+
+00:25.990 --> 00:29.080
+Tratterà di Linux come Unix guerre Linux.
+
+00:29.270 --> 00:38.360
+E nota una cosa che ogni modulo che ho ho incluso quiz per farti fare i compiti dopo
+
+00:38.360 --> 00:41.520
+ogni modulo e dispense da leggere.
+
+00:41.540 --> 00:46.860
+Non devi davvero leggere ogni volantino, ma è bene avere quelle risorse in mano.
+
+00:47.090 --> 00:53.300
+Passando al Modulo Due, dove tratteremo l'installazione del download e configureremo le macchine linux attuali o parleremo del download
+
+00:53.300 --> 00:56.230
+delle macchine virtuali di quella macchina in movimento.
+
+00:56.240 --> 01:00.340
+Parleremo di quali sono i diversi modi per installare la macchina Linux.
+
+01:00.410 --> 01:02.750
+Quindi tratteremo l'attuale inviato all'installazione negli Stati Uniti.
+
+01:02.750 --> 01:07.940
+Ho anche incluso la lezione di installazione opzionale di Red Hat Linux.
+
+01:07.940 --> 01:15.050
+Poi un po 'sulla gestione del desktop Linux su VM e poi di nuovo termina con i quiz compiti e
+
+01:15.050 --> 01:15.500
+dispense.
+
+01:15.500 --> 01:21.290
+Passando al Modulo tre che riguarda l'accesso al sistema e al file system e che riguarda i prompt dei comandi per
+
+01:21.320 --> 01:26.170
+accedere al sistema Linux che scarica il mastice installato, è necessario conoscere alcune cose importanti su Linux.
+
+01:26.210 --> 01:28.900
+Ho coperto questa introduzione al file system.
+
+01:28.910 --> 01:33.530
+Quali sono i diversi file system disponibili quindi il comando di base GDP WD e Alice.
+
+01:33.530 --> 01:34.850
+Ecco dove inizieremo.
+
+01:34.850 --> 01:40.340
+Il comando Are Linux sta passando a un file system come vedrai.
+
+01:40.340 --> 01:47.000
+Ho intenzione di saltare loro una recensione di uso molto veloce e ripassare direttamente l'elenco dei comandi di copia
+
+01:47.000 --> 01:51.200
+a sfioramento che trovano i file e ti scrivono jolly offline.
+
+01:51.200 --> 01:56.780
+Quindi il modulo 4 riguarda i comandi fondamentali di Linux, la sintassi cambia idea.
+
+01:56.780 --> 01:58.870
+Si tratta solo dell'autorizzazione a presentare l'autorizzazione.
+
+01:58.880 --> 02:04.990
+Inoltre ACL può accedere al controllo che è un dettaglio che arriva nelle erbacce per ottenere aiuto.
+
+02:05.090 --> 02:09.540
+Completamento della scheda con l'aggiunta di testo al comando di gestione dei file delle pipe.
+
+02:09.560 --> 02:16.670
+Mostra i filtri di comando comando confronta file così tanti comandi iniziano a imparare nel modulo 4 che tratta di Linux
+
+02:16.670 --> 02:19.600
+fondamentale e che combina i file di divisione.
+
+02:19.610 --> 02:25.190
+Linux vs. windows e, naturalmente, interroga i compiti a casa e il
+
+02:25.190 --> 02:28.290
+modulo 5 dell'amministrazione sys per entrare sempre più nella parte dell'amministrazione effettiva.
+
+02:28.430 --> 02:34.130
+Parleremo di come potremmo VII Una differenza di FILE tra VM quando lo ha detto che è un comando di
+
+02:34.130 --> 02:34.640
+sostituzione.
+
+02:34.880 --> 02:37.980
+Parleremo dell'utilizzo dello pseudo account di gestione degli account.
+
+02:38.030 --> 02:45.110
+Come puoi gestire i tuoi utenti Linux tramite active directory o ad altri con autenticazione di terze parti.
+
+02:45.110 --> 02:51.290
+Parleremo anche della differenza tra LDN e quell'idea è passata da un'app alt aperta quindi parleremo di
+
+02:51.290 --> 02:57.830
+comandi dell'utilità di sistema sempre comando di manutenzione cambiando il nome host del sistema trovando la password di recupero
+
+02:57.830 --> 03:03.320
+delle informazioni di sistema S. O. L'ambiente dei reporter varia, ma molto
+
+03:03.320 --> 03:08.630
+di più sto già senza fiato e continuiamo a passare al modulo 5 passando al modulo 6, parleremo di tutti gli
+
+03:08.630 --> 03:12.810
+script di shell, ti mostrerò se va bene per i grip sciolti: script e molti script.
+
+03:12.860 --> 03:16.400
+Server di rete del modulo 7 e aggiornamenti del sistema.
+
+03:16.400 --> 03:22.700
+Parleremo di società di rete che verranno a collegare le porte di rete scaricando file da Internet mentre SSA funziona come un indizio che
+
+03:22.870 --> 03:30.800
+parleremo del nome host DNS e della ricerca IP A. P. crony d invia la posta e tutti
+
+03:30.800 --> 03:32.550
+questi servizi che vedi.
+
+03:32.660 --> 03:37.350
+Non andrò molto velocemente dove lavorerò con te per andare avanti e scaricare
+
+03:37.350 --> 03:42.770
+l'installazione configura ciascuno di questi server, quindi modulare è tutto sulla gestione del disco tutti toccati dai
+
+03:42.770 --> 03:47.930
+livelli di Ron, parleremo delle partizioni del disco l VM è la parte più importante di
+
+03:48.020 --> 03:53.780
+questo in cui copriremo tutto ciò che riguarda LV. Aggiungo il disco che rimuove il disco di cui
+
+03:54.460 --> 04:01.640
+parleremo per estendere lo spazio esistente per lo scambio del file system di raid dello spazio di scambio di partizioni. compatto ho coperto
+
+04:01.640 --> 04:07.110
+tutto da zero anche coperto la differenza tra tutte le linee di modulo di sapori rosse OK.
+
+04:07.130 --> 04:10.610
+Ora fino a modulare tutto è coperto dal lato tecnico.
+
+04:10.610 --> 04:11.800
+Non ti lascerò proprio qui.
+
+04:11.810 --> 04:16.860
+In realtà sto tenendo la tua mano e prendo la linea del modulo su come dovresti avere il tuo curriculum.
+
+04:16.870 --> 04:18.910
+Avremo un curriculum o una lettera di presentazione dell'officina.
+
+04:19.050 --> 04:21.070
+Esposizione ad altre tecnologie.
+
+04:21.230 --> 04:23.270
+Dispense per i compiti, quindi modulo 10.
+
+04:23.270 --> 04:28.520
+Proprio come il curriculum, ti sto portando al livello successivo dove ti dirò come dovresti essere preparato
+
+04:28.520 --> 04:32.720
+per le tue interviste su Linux e questo è qualcosa su Linux.
+
+04:32.750 --> 04:37.010
+Che cos'è I. T. lavori che hai I. T. gestione quando si applica per il lavoro Linux.
+
+04:37.010 --> 04:38.470
+Cosa devi aspettarti.
+
+04:38.600 --> 04:43.640
+Quindi intervista il seminario sul seminario vero e proprio, quindi la certificazione, se vuoi ottenere
+
+04:43.640 --> 04:49.250
+la certificazione, vuoi ottenere una certificazione in Linux, quindi abbiamo 200 domande di intervista in più che ti
+
+04:49.250 --> 04:49.720
+darò.
+
+04:49.790 --> 04:53.390
+E ovviamente compiti a casa e dispense e poi, naturalmente, ricapitolazione.
+
+04:53.390 --> 04:59.720
+Questo non fa parte del modulo, è solo un riassunto di ciò che abbiamo imparato da questo corso e l'esame
+
+04:59.780 --> 05:01.110
+finale riguarda la domanda.
+
+05:01.130 --> 05:02.990
+Ti esorto davvero a prenderlo.
+
+05:03.090 --> 05:09.000
+Quindi potresti non riuscire a sapere che ti trovi in questo discorso, quindi risorse aggiuntive che devo
+
+05:09.000 --> 05:13.860
+cacciare 20, oltre a video e conferenze aggiuntivi che potresti prendere se vuoi.
+
+05:13.980 --> 05:16.450
+Ora decidi ora di essere il giudice.
+
+05:16.500 --> 05:19.320
+Questo corso farà davvero la differenza nella tua vita?
+
+05:19.320 --> 05:20.850
+Bene, ti dirò di sì.
+
+05:20.850 --> 05:26.400
+Quindi per favore vai avanti e fai clic su Unroll e troverai tonnellate di risorse in questo corso.
+
+05:26.400 --> 05:26.970
+In bocca al lupo.
